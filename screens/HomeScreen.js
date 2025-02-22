@@ -3,8 +3,8 @@ import { View, Text, Image, TouchableOpacity, ActivityIndicator, StyleSheet, Ima
 import * as ImagePicker from 'expo-image-picker';
 import axios from 'axios';
 
-const FACEPP_API_KEY = 'jZ1QTTFN0jsuc5eVymalFYKevtHMNnFY';
-const FACEPP_API_SECRET = 'WckuouynzUHeD1QTJc9Kzd-z4q5Vq1Xm';
+const FACEPP_API_KEY = '';
+const FACEPP_API_SECRET = '';
 const FACEPP_URL = 'https://api-us.faceplusplus.com/facepp/v3/detect';
 
 const HomeScreen = () => {
